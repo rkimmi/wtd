@@ -1,6 +1,6 @@
 h1 {
     color: blue;
-    font-size: 24px;
+    font: 36px "Open Sans", sans-serif;
 } 
 
 h5 {
@@ -11,13 +11,15 @@ p {
     color: dodgerblue;
 }
 
-.box1 {
-    height: 100px;
-    width: 100px;
+.row {
+    display: flex;
+    flex-direction: row;
 }
 
-.yellow {
-    background: yellow;
+.box1 {
+    height: 120px;
+    width: 120px;
+    background-image: url('')
 }
 
 .dashed-border {
@@ -26,8 +28,8 @@ p {
 }
 
 .box2 {
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     background: pink;
 }
 
