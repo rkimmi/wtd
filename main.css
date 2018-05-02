@@ -1,0 +1,36 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+} 
+
+h5 {
+    color: green;
+}
+
+p {
+    color: dodgerblue;
+}
+
+.box1 {
+    height: 100px;
+    width: 100px;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.dashed-border {
+    border: dashed;
+    border-color: black;
+}
+
+.box2 {
+    height: 200px;
+    width: 200px;
+    background: pink;
+}
+
+.circle {
+    border-radius: 85%;
+}
