@@ -1,28 +1,39 @@
-.circle {
-    border-radius: 85%;
-    background-color: pink;
-    
+h2 {
+    color: dodgerblue;
+}
+
+p {
+    color: pink;
+}
+
+.bigtext {
+    font-size: 34px;
+    font-family: "Open Sans", sans-serif
 }
 
 .box {
-    background-color: darkolivegreen;
-}
-
-.small {
     width: 100px;
     height: 100px;
+    border: dashed;
+    border-width: 2px;
 }
 
-.board {
-    height: 600px;
-    width: 600px;
-    margin: 300px;
+.yellow {
+    background: rgb(254, 254, 169);
 }
 
-.right {
-    float: right;
+.margin {
+    margin: 20px;
 }
 
-.left {
-    float: left;
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 85%;
+}
+
+#one {
+    border: dashed;
+    border-width: 2px;
+    border-color: darkslateblue;
 }

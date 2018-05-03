@@ -1,3 +1,6 @@
+The web is built with 3 fundamental languages: HTML, CSS and JavaScript. HTML and CSS provide the structure and styling of what we see and interact with. JavaScript provides the interaction behaviour, but we can focus on that later, after we're more familiar with HTML and CSS.
+
+
 ## HTML Elements (aka Tags)
 ```
 <h1> Hello world! </h1>
@@ -27,7 +30,7 @@ How 'bout a sweet horizontal rule?<hr>
 ### selectors 
 A really popular way to select elements is to assign them a class and then target the classes in your selection.
 
-.h1 {}  
+h1 {}  
 
 ### div/div class=
 The first step is to assign a class to an element.
