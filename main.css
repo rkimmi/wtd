@@ -1,38 +1,28 @@
-h1 {
-    color: blue;
-    font: 36px "Open Sans", sans-serif;
-} 
-
-h5 {
-    color: green;
-}
-
-p {
-    color: dodgerblue;
-}
-
-.row {
-    display: flex;
-    flex-direction: row;
-}
-
-.box1 {
-    height: 120px;
-    width: 120px;
-    background-image: url('')
-}
-
-.dashed-border {
-    border: dashed;
-    border-color: black;
-}
-
-.box2 {
-    height: 100px;
-    width: 100px;
-    background: pink;
-}
-
 .circle {
     border-radius: 85%;
+    background-color: pink;
+    
+}
+
+.box {
+    background-color: darkolivegreen;
+}
+
+.small {
+    width: 100px;
+    height: 100px;
+}
+
+.board {
+    height: 600px;
+    width: 600px;
+    margin: 300px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
 }
