@@ -31,8 +31,8 @@
     background: pink;
 }
 
-.blue {
-    background: blue;
+.dodgerblue {
+    background: dodgerblue;
 }
 
 .green {
@@ -41,6 +41,22 @@
 
 .yellow {
     background: yellow;
+}
+
+.orange {
+    background: orange;
+}
+
+.grey {
+    background: grey;
+}
+
+.red {
+    background: red;
+}
+
+.violet {
+    background: violet;
 }
 
 .board {

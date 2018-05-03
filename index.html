@@ -7,13 +7,14 @@
     <title>JavaScript!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="main.css" />
+    <script src='index.js'></script>
 </head>
 
 <body>
     <div class='board'>
-        <div id='one' class='box' onclick=''></div>
-        <div id='two' class='box' onmouseover='changeColor()' ondblclick=''></div>
-        <div id='three' class='box' ></div>
+        <div id='one' class='box' onclick='changeShape()'></div>
+        <div id='two' class='box' ondblclick="makeBig()" onmouseover="changeColor()"></div>
+        <div id='three' class='box' onmouseover="moveSides()"></div>
     </div>
 </body>
 
