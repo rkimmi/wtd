@@ -62,9 +62,15 @@ console.log('i am in the console!')
 console.log(var, obj, array)
 
 # Functions
+Functions give us a way to perform operations. First we have to define the function.
 
+// add
+// minus 
+// multiply
 
 # Event Listeners
+
+Adding a script to html
 
 
 

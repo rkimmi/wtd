@@ -1,16 +1,46 @@
-.circle {
-    border-radius: 85%;
-    background-color: pink;
-    
+
+.biggerbox {
+    height: 300px;
+    width: 300px;   
 }
+
+.right {
+    border-style: solid;
+    float: right;
+
+}
+#one, #two, #three {
+    border: solid;
+    border-width: 3px;
+    border-style: dashed;
+    margin: 3px;
+}
+
 
 .box {
-    background-color: darkolivegreen;
-}
-
-.small {
     width: 100px;
     height: 100px;
+}
+
+
+.pink {
+    background: pink;
+}
+
+.blue {
+    background: blue;
+}
+
+.green {
+    background: green;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.circle {
+    border-radius: 85%;
 }
 
 .board {
@@ -19,10 +49,8 @@
     margin: 300px;
 }
 
-.right {
-    float: right;
-}
 
 .left {
     float: left;
 }
+
