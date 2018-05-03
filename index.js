@@ -1,8 +1,9 @@
-
-
-
 function changeShape () {
     document.getElementById("one").classList.toggle("circle")
+}
+
+function changeColor() {
+   
 }
 
 function moveSides () {
@@ -10,11 +11,7 @@ function moveSides () {
 }
 
 function makeBig () {
-
-}
-
-function changeColor() {
-   
+    
 }
 
 
