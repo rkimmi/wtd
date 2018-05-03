@@ -1,6 +1,3 @@
-set up document - 
-comment out links to
-
 ## HTML Elements (aka Tags)
 ```
 <h1> Hello world! </h1>
@@ -18,7 +15,7 @@ How 'bout a sweet horizontal rule?<hr>
  <img src="" alt=""> 
  ```
 
-# VIDEO FIX
+## FIX VIDEO
 
 ## CSS 
 ### <style> tag, then:
