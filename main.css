@@ -1,27 +1,31 @@
-
-.biggerbox {
-    height: 300px;
-    width: 300px;   
-}
-
-.right {
-    border-style: solid;
-    float: right;
-
-}
 #one, #two, #three {
     border: solid;
-    border-width: 3px;
+    border-width: 2px;
     border-style: dashed;
     margin: 3px;
 }
 
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
 
 .box {
     width: 100px;
     height: 100px;
 }
 
+.biggerbox {
+    height: 300px;
+    width: 300px;   
+}
+
+.circle {
+    border-radius: 85%;
+}
 
 .pink {
     background: pink;
@@ -39,18 +43,9 @@
     background: yellow;
 }
 
-.circle {
-    border-radius: 85%;
-}
-
 .board {
     height: 600px;
     width: 600px;
     margin: 300px;
-}
-
-
-.left {
-    float: left;
 }
 
