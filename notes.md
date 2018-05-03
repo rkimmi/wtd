@@ -15,7 +15,7 @@ How 'bout a sweet horizontal rule?<hr>
  <img src="" alt=""> 
  ```
 
-## FIX VIDEO
+## VIDEO
 
 ## CSS 
 ### <style> tag, then:
@@ -82,7 +82,6 @@ function add(num1, num2) {
 
 ## Event Listeners
 // change branch
-// add script to html
 
 ```
 function changeShape() {
@@ -101,7 +100,8 @@ function changeColor() {
  // first pink, then change
 }
 
-const colorArray = []
+const colorArray = ['green', 'pink', 'dodgerblue', 'yellow', 'orange', 'grey', 'red', 'violet']
+
 let counter = 0
 
 function changeColor() {
