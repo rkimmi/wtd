@@ -2,24 +2,27 @@ set up document -
 comment out links to
 
 ## HTML Elements (aka Tags)
-<!-- <h1> Hello world! </h1>
-<!-- <em>I am emphasised!</em> -->
+```<h1> Hello world! </h1>
+<em>I am emphasised!</em> -->
 
-<!-- Sometimes there is no closing tag;
+Sometimes there is no closing tag;
 I'm on one line. <br>
 And I'm on the next line.
 
-How 'bout a sweet horizontal rule?<hr> -->
+How 'bout a sweet horizontal rule?<hr>
+``` 
 
 ### HTML attributes 
-<!-- <img src="" alt=""> -->
+ ``` <img src="" alt=""> 
+ ```
 
 #VIDEO FIX
 
 ## CSS 
 ### <style> tag, then:
 
-  <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
+ ``` <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> 
+ ```
 
 ### selectors 
 A really popular way to select elements is to assign them a class and then target the classes in your selection.
