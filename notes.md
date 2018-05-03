@@ -4,7 +4,7 @@ The web is built with 3 fundamental languages: HTML, CSS and JavaScript. HTML an
 ## HTML Elements (aka Tags)
 ```
 <h1> Hello world! </h1>
-<em>I am emphasised!</em> -->
+<em>I am emphasised!</em> 
 
 Sometimes there is no closing tag;
 I'm on one line. <br>
