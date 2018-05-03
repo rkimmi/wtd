@@ -18,7 +18,9 @@ How 'bout a sweet horizontal rule?<hr>
  <img src="" alt=""> 
  ```
 
-## FIX VIDEO
+## Video!
+https://www.youtube.com/watch?v=ir8ye-gp5ts&list=LLATfdT-gb7MLZsW0xgir4PA&t=0s&index=184
+share, embed
 
 ## CSS 
 ### <style> tag, then:
