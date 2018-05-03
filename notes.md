@@ -69,8 +69,18 @@ Functions give us a way to perform operations. First we have to define the funct
 // multiply
 
 # Event Listeners
+change branch w/ ids
 
-Adding a script to html
+Add script to html
+
+function changeShape() {
+    document.getElementById("one").classList.toggle("circle")
+}
+
+
+
+
+
 
 
 
