@@ -51,6 +51,12 @@ While the web browser is loading our HTML and CSS, it's creating a structure cal
 Variables allow us to work with values - there are different ways to declare variables, using the let or const keyword.
 
 // var, obj, array
+const age = 21
+let name = 'Kimmi'
+
+name = 'Julia'
+
+console.log('My name is ' + name + ', i am ' + age + ' years old')
 
 console.log('i am in the console!')
 console.log(var, obj, array)
