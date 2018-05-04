@@ -1,0 +1,20 @@
+h1 {
+    color: pink;
+    font-size: 55px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    border: orange;
+    border-width: 4px;
+    border-style: solid;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    border: orange;
+    border-width: 4px;
+    border-style: solid;
+    background-image: url('https://marketplace.canva.com/MACLCWkSWI4/1/thumbnail_large/canva-cute-puppy-icon-MACLCWkSWI4.png')
+}
